@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="hello_world">HELLO WORLD</string>
+    <string name="on_off">On/Off</string>
+</resources>
